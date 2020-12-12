@@ -10,8 +10,8 @@ Objtivos: Programa que permite que el usuario solucione un cuestionario de ciert
 
 Si se ingresa con el usuario administrador y la contraseña "123" podra accerder a mas funciones
 
-- El programa necesita del documento "preguntas.csv" para su funcionamiento, se necesita de colocar este documento en la misma carpeta que el archivo "Quuiz maker.py"
+- El programa necesita de que la carpeta "Codigo_fuente" este en la misma carpeta que la carpeta "Recursor" para su funcionamiento
 
-- El programa necesita de dos librerias basicas: random y csv
+- El programa necesita de cuatro librerias basicas: random, csv, Tkinter y Os
 
-- El programa se maneja mediante la consola
+- El programa se maneja mediante una interfaz grafica
