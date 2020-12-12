@@ -16,4 +16,5 @@ Si se ingresa con el usuario administrador y la contraseña "123" podra accerder
 
 - El programa se maneja mediante una interfaz grafica
 
-https://github.com/sacastaneda/Quiz-Maker/blob/main/Imagenes/Imagen1.png
+![Ejemplo 1](https://github.com/sacastaneda/Quiz-Maker/blob/main/Imagenes/Imagen1.png)
+
